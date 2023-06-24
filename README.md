@@ -1,10 +1,11 @@
 ### Bueno aquí el reto de digital House FT1
 
-bash´´´
-  link del repo 
-  https://github.com/Blacksavior24/testdigitalhouse
+link del repo:
 
-´´´
+```bash
+    https://github.com/Blacksavior24/testdigitalhouse
+
+```
 próximamente en github pages
 
 ## El reto
